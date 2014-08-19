@@ -1,4 +1,2 @@
-prontoTerminator
+Pronto Terminator
 ================
-
-Pronto Terminator Tool
