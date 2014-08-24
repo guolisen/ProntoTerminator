@@ -1,10 +1,10 @@
 Pronto Terminator
 ================
 
-Make:
-cd prontoTerminator
-qmake prontoTerminator.pro
-make
+Make:<br />
+cd prontoTerminator<br />
+qmake prontoTerminator.pro<br />
+make<br />
 
 Issues:
 * debug binary not working
