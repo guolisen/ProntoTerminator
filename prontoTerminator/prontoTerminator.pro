@@ -1,5 +1,4 @@
 TEMPLATE = subdirs
 CONFIG += ordered
-SUBDIRS = app \
-          lib/QScintilla/Qt4Qt5
+SUBDIRS = lib/QScintilla/Qt4Qt5 app
 
